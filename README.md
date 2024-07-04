@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" alt="R Logo" width="35%">
+  <img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" alt="R Logo" width="30%">
 </p>
 
 <h1 align="center">Introducción a R</h1>
